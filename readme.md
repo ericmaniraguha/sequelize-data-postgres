@@ -1,6 +1,9 @@
 npm i typescript @types/node ts-node-dev -D
+
 npm i express
+
 npm express dotenv
+
 npm i sequelize pg pg-hstore
 
 # create a typescript tsconfig
